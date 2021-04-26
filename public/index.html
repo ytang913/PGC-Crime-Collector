@@ -1,0 +1,64 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="./image/pgcrimefavicon.png">
+    <title> PGC Crime Collector </title>
+
+    <script defer src="js/script.js"></script>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+</head>
+<body>
+<div class="nav">
+
+    <div class="menu">
+
+        <ol><a class="highlightCurrentPage" href="index.html">Home</a></ol>
+        <ol><a href="about.html">About</a></ol>
+        <ol><a href="data.html">Data</a></ol>
+    </div>
+    
+    <img src="image/LOGO.png" class="navlogo" alt="Logo">
+</div>
+<h1>Welcome to PGC Crime Collector </h1>
+<div class="mainPageImage">
+
+  <img src="image/PGCountyMD.png" class="mainImage" alt="Maryland State Map with PG county highlighted in grey">
+  
+ 
+
+</div>
+
+<div id="search"> 
+  <div id="container1"> 
+    <select name="crimes" id="crimes">
+      <option value="0">All types of crime</option>
+    </select>
+       <input type="text" id="searchin" placeholder=" Search for crime on your street..." list="list" /> 
+       <button id="btngo" class="btn btn-primary" type="button" enabled>Go</button> 
+       <table class= "suggestions"></table>
+  </div> 
+</div>
+
+<footer class="footer-distributed">
+     <div class="footer-left">
+       <p class="footer-links">
+         <a class="link-1" href="index.html">Home</a>
+         <a href="about.html">About</a>
+         <a href="data.html">Data</a>   
+       </p>
+
+       <div class="footer-right">
+         <a href="https://github.com/ytang913/PGC-Crime-Collector"><img src="./image/GitHub-logo.jpg"></i></a>
+       </div>
+
+     <p>Yiming (Danny) Tang | 2021</p>
+     </div>
+ </footer>
+
+
+
+</body>
+</html>
