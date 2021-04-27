@@ -37,33 +37,26 @@ GET requests can be retrieved from the API and it retrieves a list of JSON objec
 GET requests can also return a confirmation string or an error message once completed
                            
 POST is used to add data to the database, which is in the Data Page                           
-                 
-The data of the different crimes came from the PG County API
-
-## 
-
-The web based application was deployed on:
-
-##
 
 # Result when the user opens up the web based application
-
+![](image/PGCCrimeCollectorThumbnail.jpg)
 # Result when the user clicks on All Types of Crimes
-
+![](image/allTypesOfcrime.jpg)
 # Result when the user clicks on accident
-
+![](image/accident.jpg)
 # Result when the user clicks on theft
-
+![](image/theft.jpg)
 # Result when the user clicks on sex offense
-
+![](image/sexoffense.jpg)
 # Result when the user clicks on robbery
-
+![](image/robbery.jpg)
 # Result when the user clicks on assault
-
+![](image/assault.jpg)
 # Result when the user clicks on a specific filter and searches a specific street
-
+![](image/specificFilter.jpg)
 # Result when the user is on the About Page
-
+![](image/about.jpg)
 # Result when the user is on the Data Page
-
+![](image/data.jpg)
 # Result when the user adds another crime in the Data Page
+![](image/add.jpg)
