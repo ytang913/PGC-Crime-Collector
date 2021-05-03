@@ -30,6 +30,12 @@ SQLite was used to filter out five different types of crimes of accidents, theft
 
 SQLite was also used to allow users to add crimes they did not see in our website and have our database create a table based on that adding if found in the PG County API
 
+database.js file is created for the tables and sample records that are being created
+
+This application can run locally just type in npm run start-watch in the terminal.
+
+Once npm run start-watch ran succesfully, then the application can be accessed locally at http://localhost:4000/
+
 PUT requests can be submitted to the API and is used to send data to our server to update our database 
                        
 GET requests can be retrieved from the API and it retrieves a list of JSON objects containing Prince Georges County crimes information from the database
