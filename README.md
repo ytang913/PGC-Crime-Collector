@@ -15,7 +15,12 @@ Users can search for specific crime entries and see information about each crime
 Users can explore data on the Crime Incidents February 2017 to Present dataset to see a more personal representation of Prince George's County crime from residents and incoming residents. They can engage with the data visual by hovering and inputing a crime type.                   
 
 # Data Page
+Users can explore data on the Crime Incidents February 2017 to Present dataset to see a more personal representation of Prince George's County crime from                        residents and incoming residents. 
 
+They can engage with the data visual by hovering and inputing a crime type.
+                      
+If users are unable to find the crime incident they are looking for they can add it to our website and then when refreshing the crime incident will appear.
+                        
 # Documentation
 
 This web-based application was created using HTML, CSS, JavaScript, APIs, JSON file, Leaflet, SQLite, Express, and Node.Js.
@@ -42,7 +47,10 @@ GET requests can be retrieved from the API and it retrieves a list of JSON objec
                            
 GET requests can also return a confirmation string or an error message once completed
                            
-POST is used to add data to the database, which is in the Data Page                           
+POST is used to add data to the database, which is in the Data Page      
+
+The web based application was deployed on Heroku
+## https://pgc-crime-collector.herokuapp.com/
 
 # Result when the user opens up the web based application
 ![](image/PGCCrimeCollectorThumbnail.jpg)
