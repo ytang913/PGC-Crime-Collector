@@ -31,7 +31,7 @@ JavaScript for the user interactions with the web application.
                                 
 Express/Node.Js and SQLite was used for the backend part of the website, essentially storing the data from the PG County API.
                   
-SQLite was used to filter out five different types of crimes of accidents, theft, sex offense, robbery, and assualt for the Home page
+SQLite was used to filter out five different types of crimes of accidents, theft, sex offense, robbery, and assault for the Home page
 
 SQLite was also used to allow users to add crimes they did not see in our website and have our database create a table based on that adding if found in the PG County API
 
