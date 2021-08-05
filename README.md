@@ -23,7 +23,7 @@ If users are unable to find the crime incident they are looking for they can add
                         
 # Documentation
 
-This web-based application was created using HTML, CSS, JavaScript, APIs, JSON, SQLite, Express, and Node.Js.
+This web-based application was created using HTML, CSS, JavaScript, APIs, JSON, HTTP Requests, SQLite, Express, and Node.Js.
     
 I used HTML and CSS for the overall design of the frontend portion of the web application. 
 
